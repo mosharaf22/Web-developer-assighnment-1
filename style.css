@@ -20,7 +20,7 @@ body{
  font-size: 80px;
 
 font-weight: 800;
-
+margin-bottom: 30px;
 
 }
 .banner-description{
@@ -29,6 +29,7 @@ font-weight: 800;
     font-size: 18px;
 
     font-weight: 400;
+    margin-bottom: 30px;
     
 }
 .btn-primary{
@@ -39,6 +40,7 @@ font-weight: 800;
     padding: 20px 40px;
     border-radius: 8px;
     background: #E55473;
+
 }
 .banner.img-1{
     width: 635px;
