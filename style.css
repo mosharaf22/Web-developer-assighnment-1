@@ -96,8 +96,7 @@ margin-bottom: 30px;
     color: #E55473;
 }
 #section{
-    max-width: 1920px;
-    height: 4867px;
+    width: 1900px;
     margin: 128px 240px;
 }
 #paragraph1{
@@ -124,19 +123,53 @@ margin-bottom: 30px;
 }
 .img-3{
     margin-right: 24px;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;           
+    
 }
 .img-4{
     margin-right: 24px;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    
 }
 .img-5{
     margin-right: 24px;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    
 }
 .img-6{
+    
+    border-radius: 8px;
     width: 1440px;
     height: 449px;
-    border-radius: 8px;
-    background: url(<path-to-image>), lightgray 0px -203.444px / 100% 213.755% no-repeat;
 }
+.footer{
+    max-width: 800px;
+    height: 449px;
+    background: #111010;
+    padding: 128px 640px;
+}
+.fp{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.ft{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 32px ;
+
+}
+.last{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.span2{
+    color: #FFFFFF;
+} 
