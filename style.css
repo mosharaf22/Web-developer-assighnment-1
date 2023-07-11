@@ -133,11 +133,30 @@ margin-bottom: 30px;
     margin-right: 24px;
     
 }
-.img-6{
-    
-    border-radius: 8px;
+.Get{
+    background-image: url('./images/Rectangle\ 9.png');
     width: 1440px;
     height: 449px;
+}
+.the{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 122px;
+}
+.coupon{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
+.em{
+    width: 700px;
+    height: 64px;
+   
 }
 .footer{
     max-width: 800px;
