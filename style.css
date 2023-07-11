@@ -49,3 +49,42 @@ margin-bottom: 30px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     
 }
+.s1{
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.section1description{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+.section1description2{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn-primary2{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 40px;
+    border-radius: 8px;
+    background: #E55473;
+}
+.img-2{
+    width: 318px;
+    height: 420px;
+    padding-left: 180px;
+}
+.sec1{
+    padding: 100px 420px 100px 390px;
+    display: flex;
+}
+#class{
+    color: #E55473;
+}
