@@ -3,6 +3,12 @@ body{
     border: 0;
     margin: 0;
 }
+.head{
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+    height: 850px;
+    padding-right: 240px;
+}
 .banner{
     width: 1920px;
     height: 850px;
@@ -10,6 +16,7 @@ body{
     display: flex;
     align-items: center;
     padding: 50px 120px 0px 120px;
+    justify-content: space-around;
 }
 .banner-content{
     max-width: 700px;
@@ -87,4 +94,49 @@ margin-bottom: 30px;
 }
 #class{
     color: #E55473;
+}
+#section{
+    max-width: 1920px;
+    height: 4867px;
+    margin: 128px 240px;
+}
+#paragraph1{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+
+}
+#paragraph2{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+
+    font-weight: 400;
+    margin-bottom: 24px;
+}
+.div-3{
+    display: flex;
+    margin-bottom: 128px;
+}
+.img-3{
+    margin-right: 24px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;           
+}
+.img-4{
+    margin-right: 24px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.img-5{
+    margin-right: 24px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.img-6{
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    background: url(<path-to-image>), lightgray 0px -203.444px / 100% 213.755% no-repeat;
 }
